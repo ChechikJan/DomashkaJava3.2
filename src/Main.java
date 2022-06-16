@@ -6,5 +6,6 @@ public class Main {
         double bodyMassIndex = service.calculate(height, weight);
 
         System.out.println("Индекс массы тела = " + bodyMassIndex + " кг/м3");
+
     }
 }
